@@ -1,0 +1,3573 @@
+{
+  "Target gene": ">Sbi_DNApol",
+  "Genetic sequence": "CTTCCATTTCCCGCCACCCCGCCTCGCTCTGCTCCCCAGATCCCTCGCCCCCTTTTCCCTCTCCGCTCCCGCACGCCACCTGCTCGCCGCCCCCGCTCATCGATTTCCCTCGGCCGTGCAACGAGCAAGCGGCGGCGGCGAAGCGATGGAGGAGGAGATCCGAGCGGAGTTCCAGAATAGCGGCTTCTCCATCGGGGGAGCCAGCTCCGAGGACGCCGCCCAGATTCTCTCCACGCGTAAGTACAAGCGTCCCCACCTTCCCCCTTGCCCTTACCTGGTTCTAAGTTGGTGCTGATTCATTTATGTTTATATGGTTGTGGTGTGTGTGGTTCTGCTTGCAGTGCTCACCTACTGCATCAACTACAAGATGAGCCCCGCGGACCTCGTCTCCAACTGGGAGGTCTATTACCTCAACAGGTCAGCTCGTCCCAGATAAGAATGTTGCGAATAACAATATTGTAGCATCTTTTGCAGCTTAGATTAGGCTAGTCTTCGTGACTGTAGGTCGTTTGAGTGCTCTGCAGAAAGGGCGTCTGCTTTCTATGAAATTTGATGATTAACATCTCAACACCAATGTTTATTTTTTGGCTGGAGCATAAACAACCACTTTCTATTAACTATGATCAAACTTTGTTTGATGTCTTGATGAGTCATTAAATCCCGTCAACATTTTGGTGTGACTAAAATCTTGCAGCTCATAAGTTCAATATTCTCCTGTCTGTGTTAAGAGATGCCTCCCTGATGATTGTGATTCCAGGGTCCATATATTTCCTTTTTGTTCTTTTACATGATGCAGCTAAGGAAACTGAAAGAACTAATTTATGCAGGCAATTGGATGGCTTAAAGCTTGAAAGCTCATATCTTGATGGTTTTCTGTCACATCTTCAGAATGAAGTTAAAGAAAGGATAATAAAAGAAGAAGCCAACCTTCACATTTACTCCAGTAACGATGTCGACATGTTAGTTCCACATATCAGATTCATTTACGTGCATGCTTGTCACAGAAGTACCTTTGTTTCTTATTTCACTGTCAAGGAAAAAATATAAATATAATTTAGAAGTAATTGTTGCAGGCTCTTGAGCAATTCACATGCAGATGAAGTGGCATTTCATGACACGCCAGGCTCTAAACAGGAAAAGCCACCTGAAGAGTCATCTAACTCTGAGTTAACTCCTCTGACAAGTGACAGACCATCATCCAGCAGAGTGGCCAAAACAAATGCTGATCGTATTACCCCTTTTGCAACACGAGTAAATAAATTTACCCAACAGTATGTTCTCAATGCTGATAATGCAGTTAGTGTGCCAAGTAAAAATGCTGAAATCACAGAAGATGAAGTAATTAGAAGAATTCAACCAAGTCAAAGATGTTCCTTACAAGTTCAGCGTTCACAGCCTGAACCAGGTTGCAGATTCATGTATGACAGAATGGAAGACAGAGTAAGGGCATTGCTAATTTGTTTTATTAATTGTCGTAAGCATCTGCTCTTTGACTGCATCCCTTTTCCAGTTTAATTACTTGGAAGATCGGATACGAAAATCAGCAAGCTTGTTTTCTGCATCTGGGTTTTGTGGACAACCTGCAGATGCTACCCTTGCTTCAGAGGTAATTGCACTGCCTAGTTTTGTTCTTTTAACTACTTAACTCATCATCACCCCTTTCCTTGATAGGATATCCAATTATTTGCCCACTGCAGGAGAAAATGTTTGCAGTCGGTACAGTAGCTTGTGATGGGGAAGGTCATTTGAATGAAAAGTCTATCTTGCTACAGGGCAGGTGAGTGTGCTTCTTGGACTCATTCATGTGATGATCTTTGCTTAGTCACCATTTTGTTGTTTCTTTTGGCTAACTACAGAAACAACTTTTTCTAGTGTTCAACACTCCAGGGGACAGCGTGTGCGCCTTGACTTGAAGGATCTTGATCACTTCTCTTTGTTTCCTGGGCAGGTAAGCGCAGCCAGTTCTAATGCCATATACATTATCTACTGAGTTAAATTAACACAAATTTAAATAACAGGTGGTGGGTATCGAAGGCCACAATCCCAGTGGACACTGTTTTGTTGCATCAAAATTAATTGATTCCATACCGGTCTCTGTGGATGCTCAACTTCCTAGTGCTAAGAAACAAGCTATTGATAATGAAAGCAACCAAAATTCCGACGCTGGCACTCTGTCAAGAGCATTGTCATCGGTTAGTTCTTGTCTGTTTTTTGTTCGAAATAATGCTGCACCAAACATATCTGTTTAACGAACAATTAGTATATTTTGTCCAAGCTTAAACTGATATCAGTTCATTGTTCTTCTATTTTAATTATGAATCGCATGTTTATACTTTCTTCATTTATTGCATGGACATGCTCAATCAAAGGAGAGTACGCCAATCATTAATGATTTAAATAATTTCCATTTTACCTCATGTCTTGAGAAAAAAAACTACCTCATGTCTTTTACAGGTCATCGCAGCAGGTCCCTATACAACAACCGATAATCTGTTGTTTGAACCACTGCAAGAACTTCTTTCATATGCTTGTCGTAAGCAGCCTCAGCTACTCATATTGGTGAGGCCTCTCAACTCTGTAGATGGGACAGCATATTGATGTTTGAAATGCCCTGCTACTGTACATATCAATTGTTCTTTGGCAGATGGGACCCTTCATTGACTCTGATCATCCTGACATAAAAAAAGGAACTGTTGACCAGAGCTTTCATGACATTTTCCATTTTGAAATTCTGAGAAAGGTAGGTAAATGCTGATTTCTGAAGGTGTAATGCTGGCACATTGTCAAATGCAATAGTTATTCATGTGTGTTATATTTTTGTGTTCAGATTCAAGACTTTACCCAGTATCTGGGGAACACTGTCCGTGTAATTCTCATTCCATCAGTGCGTGATGCTCACCATGACTTTGTTTTCCCTCAGGTTTGTAATTTTCTTTATTGAGATTTAAATCTGATTTAATAATTATAAACATATTGCTGTATCATTACTTATCAATTAATGTCTGCAAAGTTAGATGCAAATTTTGCTGACATAGTGCAACAAGTTTACTTCCAATGTACTAGGCTTTATAGTCTGGTAGTATGTGCAAATCAATTGTGTTATTGTTATTTAAGCCTTTTTGTAATGTTCTGAGCACAAGAATCTCTAATGATATATCTGTATTGACGCTACTTGCAGCCTGCATTTGATTTGAATTTTCCAGAAGATATCACACATCAGGTATATATGTTACTCTGTAAGGTTGCTCTTGTGAGGTACTCAATCCATCCCAAATTGTAAGTCGTTTGACTTTTTTAATATCAAGTTTGACCACTCGTCTTATTCAAAGTTTTGTACAAAATATCATCTTTTTTTTGTTGTGTATTGGTTTATTAATAAAAGCTCTTCAAGAATGACTTAAATTTGACTATATTTACACAAATTTTTTGAATAAGACGAGCGGTCAAACTTGGGGTAAAAAAAGTCAAACGACTTACAATTTGGGATGGAGGGAGTATTTGGTAATAATATTCCTTTGTTTTTAAAAGGTTTACATACATTATGCAGATTACTTGTCTGGCAAATCCATGCCTCTTCAGTTCTAACGAGGTACGCTATATTAATAGTTGTAATGAAATAATGTAATGGTTGGAGCATGCAAAATATATATGGTTTTCCTTGTCTATTATCGAATGGGTACGCCTTTATTTTGGTTAAGTTATTTTTGTTATTGTCCTGCAAAATAAAATTGAGACATGGTCATTGAACTCAAAAGAATCTTTTTCTCCATATTGTGATCTTAATATGCTCCTCATCTCTGCATTTTTCTCTCATGTTTCATTGTCTAGAGGAATCCATTCAATGCTTAGGGATTACCAGGCCTACTGCCACACTGTTCCTGTGTTTGCTCATGAGATATTCTCCAAATTTGTAACTTGTTGGGATTTTTTTTTCTCGAACACGAAGGAGAGCTGTGTGCCATTATATTAAGAATGGAAATGGTTTTCTTAATACTTCTCATGCATATTATGAGCAAAATTCATCTTATATGTTGTTAGAAATGTGTTGATAAGTGTCGTCTTACCCGAAAATGTTTGTTTTCCTTCTTTCCAGATACATTTTGGCTGTTGTACAGTGGACATTCTGAAACAGCTCAGTGGTGAGGAAATTTCTCGCAAGCCACCTGTCGGAAAGCCTGCAGACAGGATTGGTAGACTTGCCTCACACATATTAAAGCAACAAAGGTGATTCCATTTAGCTTTTTTATGTTGTATCAGTTGGGACGGATCGTGTGCAGTTTATGAGTTCTGATGTAGCACTCTTCCTACAGTTACTATCCTCTATATCCTTCTGCTGCTGGTGTGCCATTAGACTTCTCACTTGCTAAGGAAGCACTGGAGATCTCATCAGCACCAGATGTTCTCCTTCTTCCTTCTGATCTTGCACCATTTGTGAAGGTAATAACAAGTTTTTAGTACAGGCAGCACATTTATTGTAAACTTCTAATTGATATTCATATATTTGAATTATGCCCATCTGCGAGCTCATTGTTCAACTGAATGGAATGATACTGAACAGCTATTATGTGCAGGTGCTTTCCCTTGGAGAAGGTAGTGACGACCAGAAACGGTTTATCTGTGTGAACCCTGGGAGGTTGGCAAAGGGTATTGGTGGGGGCACATTTGTGGAGCTTTACTACAATGAGGGCATCGACAAGACCAACGCCTCCATCATCCGCATATAGGATTTCTGTCGGGGCATATCACCTAACATGAAAAGAGGCTCTGATTCATCCGCTGCAGAAAATTACCCAAGGCTTCTTTTCTTGTTTGCCACACCAGAAGCCCACCAAAAGGAAGGATTGAAGCGGTAAGATTTATTTTTGTGGCAAGCTTTCTTGGGGACATGTAAATTGAGCTCGGAAAGCCATCTCAACGTTTGTTATCCCAGATAGTTTTGCTTAACGTATGGCATTCTGTTGTAACCAAGTACTTTGGACACTAAAGTTCATATTATTGTTAACTAACAACTGATTTGCTTCTCTTCA",
+  "Total primer pairs": 297,
+  "Generated with": "$software name",
+  "Date": "2018-06-25 13:55:36.475272",
+  "Primer Pair Info": [
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCAGATCCCTCGCCCCCTTTT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CAGATCCCTCGCCCCCTTTTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "AGATCCCTCGCCCCCTTTTCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCCCTCGCCCCCTTTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TTTTCCCTCTCCGCTCCCGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCCGCTCATCGATTTCCCT",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCCGCTCATCGATTTCCCTC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCCGCTCATCGATTTCCCTCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CCGCTCATCGATTTCCCTCGG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CGCTCATCGATTTCCCTCGGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "GCTCATCGATTTCCCTCGGCC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CTCATCGATTTCCCTCGGCCG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "AGTGTCCAAAGTACTTGGTTACAACAG",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "GTGTCCAAAGTACTTGGTTACAACAG",
+        "GC": 42.30769230769231,
+        "Tm": 72.88461538461539
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "GTGTCCAAAGTACTTGGTTACAACAGA",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGC",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "CAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATAC",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "TACTTGGTTACAACAGAATGCCATACG",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "ACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.30769230769231,
+        "Tm": 72.88461538461539
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "ACTTGGTTACAACAGAATGCCATACGT",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "CTTGGTTACAACAGAATGCCATACG",
+        "GC": 44.0,
+        "Tm": 72.53999999999999
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "CTTGGTTACAACAGAATGCCATACGT",
+        "GC": 42.30769230769231,
+        "Tm": 72.88461538461539
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "CTTGGTTACAACAGAATGCCATACGTT",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAG",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "GTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGG",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGG",
+        "GC": 42.30769230769231,
+        "Tm": 72.88461538461539
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "CCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.30769230769231,
+        "Tm": 72.88461538461539
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "CCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATG",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.30769230769231,
+        "Tm": 72.88461538461539
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGG",
+        "GC": 44.0,
+        "Tm": 72.53999999999999
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.0,
+        "Tm": 72.53999999999999
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.30769230769231,
+        "Tm": 72.88461538461539
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 40.74074074074074,
+        "Tm": 73.2037037037037
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.0,
+        "Tm": 72.53999999999999
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCATCGATTTCCCTCGGCCGT",
+        "GC": 57.14285714285714,
+        "Tm": 72.78571428571428
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.30769230769231,
+        "Tm": 72.88461538461539
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "CATCGATTTCCCTCGGCCGTG",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "ATCGATTTCCCTCGGCCGTGC",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CCAAAGTACTTGGTTACAACAGAATGCC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GTACTTGGTTACAACAGAATGCCATACG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGTTACAACAGAATGCCATACGTTAAGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGG",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GCCATACGTTAAGCAAAACTATCTGGGA",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTATCTGGGATAACAAACGTTGAGATGG",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "ATCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGC",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TCTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCT",
+        "GC": 46.15384615384615,
+        "Tm": 74.46153846153845
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTT",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "CTGGGATAACAAACGTTGAGATGGCTTT",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "TGGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 42.857142857142854,
+        "Tm": 74.96428571428571
+      }
+    },
+    {
+      "Forward primer": {
+        "sequence": "TCGATTTCCCTCGGCCGTGCA",
+        "GC": 61.904761904761905,
+        "Tm": 74.73809523809524
+      },
+      "Reverse primer": {
+        "sequence": "GGGATAACAAACGTTGAGATGGCTTTC",
+        "GC": 44.44444444444444,
+        "Tm": 74.72222222222223
+      }
+    }
+  ]
+}
