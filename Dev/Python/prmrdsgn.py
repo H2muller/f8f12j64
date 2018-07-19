@@ -11,15 +11,19 @@ import math
 import sys
 import statistics
 import json
+import re
+from Bio import SeqIO
 from os import path
-from tabulate import tabulate ### only required for the table in output, can be replaced by something else
 
 # DEFINING VARIABLES
 
 parser = argparse.ArgumentParser()
 
-parser.add_argument('-i', dest='i', required=True, #metavar='', defining metavar is causing an error for some reason
+parser.add_argument('-i', dest='i', required=True,
                     help='path to input file in FASTA format'
+                    )
+parser.add_argument('-g', '--genome', required=True, dest='g', 
+                    help='path to input genome file in FASTA format'
                     )
 parser.add_argument('-n', '--number', metavar='', dest='n', type=int, default=5,
                     help='number of candidate primer pairs to pick, default = 5'
@@ -33,16 +37,16 @@ parser.add_argument('-s', '--short', metavar='', dest='s', type=int, default=20,
 parser.add_argument('-l', '--long', metavar='', dest='l', type=int, default=30,
                     help='longest acceptable primer, default = 30'
                     )
-parser.add_argument('-m', '--mintemp', metavar='', dest='m', type=float, default=55,
+parser.add_argument('-m', '--mintemp', metavar='', dest='m', type=float, default=50,
                     help='min Tm in celsius, default = 55'
                     )
-parser.add_argument('-x', '--maxtemp', metavar='', dest='x', type=float, default=75, # Changed from 62, example didn't work with such a low threshold
+parser.add_argument('-x', '--maxtemp', metavar='', dest='x', type=float, default=65,
                     help='max Tm in celsius, default = 62'
                     )
-parser.add_argument('-M', '--mingc', metavar='', dest='M', type=float, default=35, # Changed from 40, example didn't work with such a high threshold
+parser.add_argument('-M', '--mingc', metavar='', dest='M', type=float, default=35, 
                     help='min GC percentage, default = 40'
                     )
-parser.add_argument('-X', '--maxgc', metavar='', dest='X', type=float, default=65, # Changed from 60, example didn't work with such a high threshold
+parser.add_argument('-X', '--maxgc', metavar='', dest='X', type=float, default=65, 
                     help='max GC percentage, default = 60'
                     )
 parser.add_argument('-D', '--tmdiff', metavar='', dest='D', type=float, default=0.5,
@@ -56,7 +60,6 @@ parser.add_argument('-v', '--verbose', action='store_true',
                     )
 
 args = parser.parse_args()
-
 
 class Primer:
     def __init__(self, sequence):
@@ -80,7 +83,6 @@ class Primer:
                 "GC": self.GC_percentage,
                 "Tm": self.Tm
                 }
-
 
 def create_reverse_complement(input_sequence):
     complement = {'A': 'T', 'C': 'G', 'G': 'C', 'T': 'A'}
@@ -110,6 +112,14 @@ def filter_primers(list_of_primers):
     return filtered_list
 
 
+def is_unique(list_of_primers,genome):
+    unique_list = list_of_primers.copy()
+    for primer in list_of_primers:
+        if genome.count(primer) != 1:
+            unique_list.remove(primer)
+    return unique_list
+
+
 def main():
 
     if args.verbose:
@@ -127,17 +137,46 @@ def main():
     else:
         sys.exit('file does not exist')
 
+    # IMPORTING GENOME FILE
+    if path.exists(args.g):
+        with open(args.g, 'r') as genome_file:
+            contents = genome_file.read()
+            seqlist = contents.split()
+        name_tag = seqlist[0]
+        seq = ''.join(seqlist[1:])
+        if args.verbose:
+            print(f'Genome file {name_tag} successfully imported')
+    else:
+        sys.exit('file does not exist')
+
     # Lists of Primer objects
     forward_primers = get_primers(seq)
+    if args.verbose:
+        print(f'{len(forward_primers)} forward primers successfully generated')
     reverse_primers = get_primers(create_reverse_complement(seq))
+    if args.verbose:
+        print(f'{len(reverse_primers)} reverse primers successfully generated')
 
     filtered_forward_primers = filter_primers(forward_primers)
+    if args.verbose:
+        print(f'{len(forward_primers) - len(filtered_forward_primers)} forward primers discarded based on GC / TM')
     filtered_reverse_primers = filter_primers(reverse_primers)
+    if args.verbose:
+        print(f'{len(reverse_primers) - len(filtered_reverse_primers)} reverse primers discarded based on GC / TM')
 
-    primer_pairs = list(itertools.product(filtered_forward_primers, filtered_reverse_primers))
+    unique_forward_primers = is_unique(filtered_forward_primers,genome_file)
+    if args.verbose:
+        print(f'{len(unique_forward_primers)} unique forward primers acquired')
+    unique_reverse_primers = is_unique(filtered_reverse_primers,genome_file)
+    if args.verbose:
+        print(f'{len(unique_reverse_primers)} unique reverse primers acquired')
+
+    primer_pairs = list(itertools.product(unique_forward_primers, unique_reverse_primers))
 
     # Filter out all pairs that have Tm's that are too far apart
     filtered_primer_pairs = [pair for pair in primer_pairs if math.isclose(pair[0].Tm, pair[1].Tm, abs_tol=args.D)]
+    if args.verbose:
+        print(f'{len(filtered_primer_pairs)} primer pairs successfully created')
 
     # Creates elements directly stored in output dict
     flat_primer_pair_info = []
@@ -162,7 +201,6 @@ def main():
         json.dump(output_dict, f, indent=2)
 
     print(f'The output file has been generated at {args.o}')
-
 
 if __name__ == '__main__':
     main()
